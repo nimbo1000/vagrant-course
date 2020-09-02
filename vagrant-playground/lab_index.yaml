@@ -11,7 +11,7 @@ details:
   finish:
     text: finish.rst
 grader: grader.py
-initializationScript: setup.sh
+initializationScript: setup.py
 backend:
   image: nplaku/ignite-vagrant:0.0.2
   environment: ignite
