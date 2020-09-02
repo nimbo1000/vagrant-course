@@ -1,0 +1,1 @@
+# Write here the commands to run before the terminal is shown to the student

@@ -1,0 +1,7 @@
+title: Vagrant
+description: Learn Vagrant
+labs:
+  - title: Vagrant Playground
+    description: Test Vagrant with OnPIT.
+    directory: /vagrant-playground
+    number_of_tasks: 1

@@ -1,0 +1,17 @@
+---
+title: Vagrant Playground
+description: Test Vagrant with OnPIT.
+details:
+  steps:
+  - name: step1
+    title: Vagrant Playground
+    text: step1.rst
+  intro:
+    text: intro.rst
+  finish:
+    text: finish.rst
+grader: grader.py
+initializationScript: setup.sh
+backend:
+  image: nplaku/ignite-vagrant:0.0.1
+  environment: ignite
