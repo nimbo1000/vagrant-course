@@ -13,5 +13,5 @@ details:
 grader: grader.py
 initializationScript: setup.sh
 backend:
-  image: nplaku/ignite-vagrant:0.0.1
+  image: nplaku/ignite-vagrant:0.0.2
   environment: ignite
